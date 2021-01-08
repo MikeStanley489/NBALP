@@ -375,6 +375,7 @@
 						<td align="center" bgcolor="ffffff">
 						<table bgcolor="e5e7e9" border="0" cellpadding="0" cellspacing="0" width="100%">
 							<tbody>
+								<!---Heder Section--->
 								<tr>
 									<td align="center" valign="top" width="100%">
 									<table align="left" bgcolor="ffffff" border="0" cellpadding="0" cellspacing="0" style="padding: 0px 0px 0px 0px; width: 600px; max-width: 600px;" valign="top" width="100%">
@@ -382,6 +383,8 @@
 											<tr>
 												<td align="center" style="width: 600px; " valign="top" width="100%"><a href="https://www.nba.com/watch/streaming-subscriptions?cid=nba:leaguepass:email:HeaderCTA:FreeTrialLaunch:122220:en-us"><img alt="Watch Live Games - Try For Free" data-bind="attr: {'title': $data.name(), 'src': $data.url}" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5ff82eaa2b07490d391e4a42/original.png?1610100394" title="More Choices. More Action" width="600" /></a></td>
 											</tr>
+											<!---End Header--->
+											<!---Start 1 Colum--->
 											<tr>
 												<td align="center" bgcolor="#FFFFFF" style="padding: 10px 20px 10px;" valign="top" width="100%">
 												<p style="line-height: 19px;"><span style="font:700 17px/27px Roboto, Arial,sans-serif; text-align: center; font-weight: bold; color: #1D428A;">Have you ever found yourself wanting to watch more than just one big matchup on game night?</span></p>
@@ -389,18 +392,21 @@
 											</tr>
 											<tr>
 											</tr>
-										</tbody>
-									</table>
+									
 									</td>
 								</tr>
-								<tr>
-									<td align="center" style="width: 600px; " valign="top" width="100%">
-									<table align="center" bgcolor="ffffff" border="0" cellpadding="0" cellspacing="0" style="padding: 0px 0px 0px 0px; width: 600px; max-width: 600px;" valign="top" width="100%">
+								<!---End 1 Column--->
+								<!---Start Button--->
+								<table align="center" bgcolor="ffffff" border="0" cellpadding="0" cellspacing="0" style="padding: 0px 0px 0px 0px; width: 600px; max-width: 600px;" valign="top" width="100%">
 										<tbody>
-										</tbody>
+										<tr>
+												<td align="center" style="padding: 0px 20px 0px;">
+												<div class="st-mobile-width-constraint" style="width: 100%; background-color:#ffffff; font-size:0pt; line-height:0pt"><a href="https://www.nba.com/watch/streaming-subscriptions?cid=nba:leaguepass:email:GameBoxCTA:DomFTLastChance:122820:en-us" target="_blank"><img border="0" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5fdb9c0d831db8607badd336/original.png?1608227853" title="Start Free Trial" width="400" /></a></div>
+												</td>
+											</tr>
+												</tbody>
 									</table>
-									</td>
-								</tr>
+								<!---End Button--->
 								<!--Start of 2 Column--->
 								<tr>
 									<td bgcolor="#ffffff" style="width: 600px; padding:0px 0px 0px 0px">
@@ -412,7 +418,7 @@
 													<tbody>
 														<tr>
 															
-															<th class="column-dir" style="">
+															<th class=".fluid-img" style="">
 															<table border="0" cellpadding="0" cellspacing="0" style="background-color:#ffffff;" width="100%">
 																<tbody>
 																<tr>
@@ -421,7 +427,7 @@
 												<span style="font:700 17px/27px Roboto, Arial,sans-serif; text-align: center; font-weight: bold; color: #1D428A;">Watch different games on up to two devices at once so you never miss a moment.</span></p>
 													<p style="line-height: 19px;"><span style="font:700 17px/27px Roboto, Arial,sans-serif; text-align: center; font-weight: bold; color: #CA2030;">Try it free for 7 days ››</span></p>
 												</td>
-												<td align="center" style="width: 600px;padding: 0px 15px 0px; " valign="top" width="100%"><a href="https://www.nba.com/watch/streaming-subscriptions?cid=nba:leaguepass:email:HeaderCTA:FreeTrialLaunch:122220:en-us"><img alt="Watch Live Games - Try For Free" data-bind="attr: {'title': $data.name(), 'src': $data.url}" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5ff8260b3e38b22d84aaaea1/original.png?1610098187" width="200" /></a></td>
+												<td align="center" style="width: 600px;padding: 0px 15px 0px; " valign="top" width="100%"><a href="https://www.nba.com/watch/streaming-subscriptions?cid=nba:leaguepass:email:HeaderCTA:FreeTrialLaunch:122220:en-us"><img alt="Watch Live Games - Try For Free" class="fluid-img" data-bind="attr: {'title': $data.name(), 'src': $data.url}" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5ff8260b3e38b22d84aaaea1/original.png?1610098187" width="200" /></a></td>
 											</tr>
 																</tbody>
 															</table>
@@ -496,6 +502,7 @@
 									</td>
 								</tr>
 								<!--End of preseason box-->
+									
 								<tr>
 									<td bgcolor="#ffffff">
 									<table border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -525,14 +532,15 @@
 									</table>
 									</td>
 								</tr>
+								<!--- Start of Footer--->
 								<tr>
 									<td bgcolor="#ffffff" style="width: 600px;" valign="top" width="100%"><img alt="" border="0" class="st-mobile-width-constraint" height="20" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5fccf6d7831db830f7d37449/original.png?1607268055" style="margin-top: 0px; border: 0px; display: block; width: 600px; max-width: 600px;" valign="top" /><img alt="" border="0" class="st-mobile-width-constraint" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5fcbb5859d7fd57105c8f8a0/original.png?1607185797" style="margin-top: 40px; border: 0px; display: block; width: 600px; max-width: 600px;" valign="top" width="600" /></td>
 								</tr>
-							</tbody>
-						</table>
+							
 						</td>
 					</tr>
 					<tr>
+					
 						<td bgcolor="#CA2030" style="background-color: #CA2030; width: 600px; padding:0px 0px 0px 0px">
 						<table border="0" cellpadding="0" cellspacing="0" width="100%">
 							<tbody>
@@ -655,7 +663,10 @@
 			</table>
 			</td>
 		</tr>
-		<!-- End T2 -->
 	</tbody>
 </table>
 <!-- End Social Media --><!--Privacy section-->
+</tbody>
+									</table>
+										</tbody>
+									</table>
